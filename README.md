@@ -200,7 +200,6 @@ const CONFIG = {
 tiktok-web-auto-unfollow/
 │
 ├── README.md
-├── LICENSE
 └── auto-unfollow-tiktok-web.js
 ```
 
