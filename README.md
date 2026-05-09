@@ -97,7 +97,13 @@ tab.
 
 ## 4. Paste The Script
 
-Copy the script content and paste it into the browser console.
+Open the file:
+
+```text
+tiktok-auto-unfollow.js
+```
+
+Copy the entire script content and paste it into the browser console.
 
 Press:
 
